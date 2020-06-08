@@ -3,7 +3,7 @@ using System.Collections;
 using UnityEngine;
 using UnityEngine.Networking;
 
-namespace UniSlack
+namespace Kogane.Slack
 {
 	[Serializable]
 	public sealed class Payload
