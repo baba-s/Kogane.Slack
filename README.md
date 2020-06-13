@@ -2,7 +2,7 @@
 
 Slack にメッセージを送信するクラス
 
-# 使用例 1
+## 使用例 1
 
 ```cs
 var url = "【Webhook URL】";
@@ -16,7 +16,7 @@ var routine = IncomingWebhooks.SendMessage( url, payload );
 StartCoroutine( routine );
 ```
 
-# 使用例 2
+## 使用例 2
 
 ```cs
 var url = "【Webhook URL】";
@@ -30,7 +30,7 @@ var routine = IncomingWebhooks.SendMessage( url, payload );
 StartCoroutine( routine );
 ```
 
-# 使用例 3
+## 使用例 3
 
 ```cs
 var url = "【Webhook URL】";
@@ -46,7 +46,7 @@ var routine = IncomingWebhooks.SendMessage( url, payload );
 StartCoroutine( routine );
 ```
 
-# 使用例 4
+## 使用例 4
 
 ```cs
 var url = "【Webhook URL】";
