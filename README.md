@@ -1,4 +1,4 @@
-# Uni Slack
+# Kogane Slack
 
 Slack にメッセージを送信するクラス
 
